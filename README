@@ -1,0 +1,23 @@
+Popis programu:
+Aplikácia, ktorá sa pokúsi pripojiť na kanál #isa-bot a následne reaguje na všetky užívateľské správy.
+
+Rozšírenia:
+--
+
+Obmedzenia:
+--
+
+Spustenie:
+isabot [-h|--help] [-v|--verbose] -t <bot_access_token>
+Viac informácií najdete v priloženom manuále alebo príkazom: "isabot -h"
+
+Projekt obsahuje:
+/test
+dc_client.cpp
+dc_client.h
+isabot.cpp
+isabot.h
+isaexception.h
+makefile
+manual.pdf
+README
